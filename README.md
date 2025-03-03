@@ -50,11 +50,15 @@
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
   The role of a pull is a formal channale used to propose changes to the main repository by submitting their code to be reviewed by the rest of the team allowing for       
   feedback and discussion as to whether or not to go through with the changes. 
-  To create a formal pull request you click "new pull request" in your repository, select the main repository and the branch repository, add a description decribing what the   changes are for along with a title and after that create the pull request. Assuming the pull request gets approved along with all the checks being passed the only thing left to do is get on to GitHub and click the "merge commit" button
+  To create a formal pull request you click "new pull request" in your repository, select the main repository and the branch repository, add a description decribing what the   changes are for along with a title and after that create the pull request. Assuming the pull request gets approved along with all the checks being passed the only thing 
+  left to do is get on to GitHub and click the "merge commit" button
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
   Forking is making a copy of someone else's repository on your Github account specifically whilst clonig creates tha same copy on your local machine. Forking is useful for when you wish to co operate on open source projects, making a personalized copy for yourself, learning and practicing for yourself and creating back ups.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-
+  Project and issue boards are important because they act as a central page where progress can be tracked, pull requests made, allows you to break down each task into       
+  managable tasks and track bugs by posting them on the issues board for all to see. These key features improve project organization by basically giving every developer a    
+  place to easyily discuss and exchange information.
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+  The main challangese that arise are merege conflicts, too many commits and having too many branches.
